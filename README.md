@@ -7,5 +7,8 @@ Gosto desta área, e penso em seguir no seguinte ramo
 
 Mais informações:
 
-Meu nome é Daniel Silva de Oliveira, tenho 16 anos e sou um estudante da ETEC (Escola Técnica) de Santa Isabel, no 2° Ano do curso de Informática para Internet.
-Como o curso é Informática para Internet, estamos aprendendo diferentes partes desse 
+Meu nome é Daniel Silva de Oliveira, tenho 16 anos e sou um estudante da ETEC (Escola Técnica) de Santa Isabel. Estou no 2° Ano do curso de Informática para Internet.
+
+Como o curso é Informática para Internet, estamos aprendendo diferentes campos da área. Até o momento, estamos aprendendo HTML, CSS, JavaScript, PHP, React-Native, SQL, Docker. Também tivemos C++ e aulas de CorelDraw e Gimp.
+
+🔥Habilidades:
