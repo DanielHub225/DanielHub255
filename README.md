@@ -1,9 +1,11 @@
 # DanielHub255
 Informações gerais:
 
-Olá, meu nome é Daniel e sou estudante da ETEC de Santa Isabel
-Estou no 2° Ano do Ensino Médio no curso de Informática para Internet
-Gosto desta área, e penso em seguir no seguinte ramo
+<ul>
+  <li>Olá, meu nome é Daniel e sou estudante da ETEC de Santa Isabel</li>
+  <li>Estou no 2° Ano do Ensino Médio no curso de Informática para Internet</li>
+  <li></li>Gosto desta área, e penso em seguir no seguinte ramo</li>
+</ul>
 
 Mais informações:
 
