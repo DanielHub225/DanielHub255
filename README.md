@@ -25,6 +25,7 @@
 
 <h3>Ferramentas e FrameWorks:</h3>
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do Vscode" height="30px" width="40px">
+<img src="" alt="Logo do Expo" height="30px" width="40px">
 
 <h3>Outros:</h3>
