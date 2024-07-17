@@ -18,5 +18,5 @@
 # 🔥Habilidades:
 <h3>Linguagens:</h3>
 
-<img src="Downloads/Logo js.png">
+<img src="">
 
