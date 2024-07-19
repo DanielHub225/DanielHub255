@@ -1,4 +1,5 @@
 <h1 align="center">Hello World!!!</h1>
+<p align="center"><b>Sejam bem-vindos ao meu perfil do Github!!!</b></p>
 
 # Informações gerais:
 <ul>
@@ -30,13 +31,13 @@
 
 <section>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do Vscode" height="30px" width="40px">
-  <img src="https://github.com/user-attachments/assets/6285e899-c14f-4053-9f5b-c380f036df21" alt="Logo do Expo" height="45px" width="50px">
+  <img src="https://github.com/user-attachments/assets/427c177d-5f75-4893-856f-639d4ad62977" alt="Logo do Expo" height="45px" width="50px">
 </section>
 
 <h3>Outros:</h3>
 
-<section>
-  <img src="https://github.com/user-attachments/assets/501381ed-542b-49d3-bd65-a3c1c9e2de42" alt="Logo do SQL" height="44px" width="37px">
+<section style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/501381ed-542b-49d3-bd65-a3c1c9e2de42" alt="Logo do SQL" height="40px" width="34px">
   <img src="https://github.com/user-attachments/assets/5a6b4c0c-b9a8-430c-a1d3-525fff79347b" alt="Logo do React-Native" height="44px" width="40px">
-  <img src="https://github.com/user-attachments/assets/c9752c1e-7da7-489e-a5c7-5fed18a6a240" alt="Logo do Docker" height"30px" width="40px">
+  <img src="https://github.com/user-attachments/assets/b43bea24-7719-4c7e-af96-bad6026728cb" alt="Logo do Docker" height"30px" width="40px">
 </section>
