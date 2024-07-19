@@ -16,6 +16,8 @@
   <p>- Como o curso é Informática para Internet, estamos aprendendo diferentes campos da área. Até o momento, estamos aprendendo HTML, CSS, JavaScript, PHP, React-Native, SQL, Docker. Também tivemos C++ e aulas de CorelDraw e Gimp.</p>
 </details>
 
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielHub255&show_icons=true&theme=gotham)
+
 # 🔥Habilidades:
 <h3>Linguagens:</h3>
 
