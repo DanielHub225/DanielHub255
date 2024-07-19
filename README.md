@@ -30,8 +30,8 @@
 <h3>Ferramentas e FrameWorks:</h3>
 
 <section>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do Vscode" height="30px" width="40px">
-  <img src="https://github.com/user-attachments/assets/77ab55af-7ee9-4ae7-beb4-44fe3e66c9be" alt="Logo do Expo" height="45px" width="50px">
+  <img src="https://github.com/user-attachments/assets/b55a2996-1a94-4216-82c4-efa628b6cdea" alt="Logo do Vscode" height="34px" width="35px">
+  <img src="https://github.com/user-attachments/assets/77ab55af-7ee9-4ae7-beb4-44fe3e66c9be" alt="Logo do Expo" height="37px" width="68px">
 </section>
 
 <h3>Outros:</h3>
