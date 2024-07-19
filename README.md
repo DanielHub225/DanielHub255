@@ -19,23 +19,24 @@
 <h3>Linguagens:</h3>
 
 <section style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/a3ab29bf-0810-4dfa-b2e5-52e32389d695" alt="Logo do Html e Css" height="40px" width="50px">
-  <img src="https://github.com/user-attachments/assets/2008d5c7-b69b-480d-8941-bb7fc3252975" alt="Logo do JavaScript" height="50px" width="40px">
-  <img src="https://github.com/user-attachments/assets/b6271ca9-ed1b-4090-bb9f-8632f83b215f" alt="Logo do PHP" height="45px" width="35px">
-  <img src="https://github.com/user-attachments/assets/21085e70-341f-4cf5-9d84-d8d8fbb419c2" alt="Logo do C++" height="50px" width="30px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Logo do Html" height="30px" width="40px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Logo do Css" height="30px" width="40px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Logo do JavaScript" height="30px" width="40px">
+  <img src="https://github.com/user-attachments/assets/b6271ca9-ed1b-4090-bb9f-8632f83b215f" alt="Logo do PHP" height="33px" width="55px">
+  <img src="https://github.com/user-attachments/assets/21085e70-341f-4cf5-9d84-d8d8fbb419c2" alt="Logo do C++" height="35px" width="35px">
 </section>
 
 <h3>Ferramentas e FrameWorks:</h3>
 
 <section>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do Vscode" height="30px" width="40px">
-  <img src="https://github.com/user-attachments/assets/6285e899-c14f-4053-9f5b-c380f036df21" alt="Logo do Expo" height="30px" width="40px">
+  <img src="https://github.com/user-attachments/assets/6285e899-c14f-4053-9f5b-c380f036df21" alt="Logo do Expo" height="45px" width="50px">
 </section>
 
 <h3>Outros:</h3>
 
 <section>
-  <img src="https://github.com/user-attachments/assets/501381ed-542b-49d3-bd65-a3c1c9e2de42" alt="Logo do SQL" height="30px" width="40px">
-  <img src="https://github.com/user-attachments/assets/5a6b4c0c-b9a8-430c-a1d3-525fff79347b" alt="Logo do React-Native" height="30px" width="40px">
+  <img src="https://github.com/user-attachments/assets/501381ed-542b-49d3-bd65-a3c1c9e2de42" alt="Logo do SQL" height="44px" width="37px">
+  <img src="https://github.com/user-attachments/assets/5a6b4c0c-b9a8-430c-a1d3-525fff79347b" alt="Logo do React-Native" height="44px" width="40px">
   <img src="https://github.com/user-attachments/assets/c9752c1e-7da7-489e-a5c7-5fed18a6a240" alt="Logo do Docker" height"30px" width="40px">
 </section>
