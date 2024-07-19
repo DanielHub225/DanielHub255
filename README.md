@@ -31,7 +31,7 @@
 
 <section>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Logo do Vscode" height="30px" width="40px">
-  <img src="https://github.com/user-attachments/assets/427c177d-5f75-4893-856f-639d4ad62977" alt="Logo do Expo" height="45px" width="50px">
+  <img src="https://github.com/user-attachments/assets/77ab55af-7ee9-4ae7-beb4-44fe3e66c9be" alt="Logo do Expo" height="45px" width="50px">
 </section>
 
 <h3>Outros:</h3>
