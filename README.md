@@ -16,7 +16,7 @@
   <p>- Como o curso é Informática para Internet, estamos aprendendo diferentes campos da área. Até o momento, estamos aprendendo HTML, CSS, JavaScript, PHP, React-Native, SQL, Docker. Também tivemos C++ e aulas de CorelDraw e Gimp.</p>
 </details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DanielHub225&show_icons=true&theme=gotham" alt="Imagem do Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=DanielHub225&show_icons=true&theme=chartreuse-dark" alt="Imagem do Github Stats">
 
 # 🔥Habilidades em desenvolvimento:
 <h3>Linguagens:</h3>
